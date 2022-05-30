@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cotabas
-- 👀 I’m interested in ... solving problems, climbing, trail running, camping, food, mtg, nba
+- 👀 I’m interested in ... solving problems, climbing, trail running, camping, **food**, mtg, nba
 - 🌱 I’m currently learning ... ruby and js
-- 💞️ I’m looking to collaborate on ... anything that helps disadvangated people or animals 🐈‍⬛
+- 💞️ I’m looking to collaborate on ... anything that helps disadvangated people, the planet, or animals 🐈‍⬛
 - 📫 How to reach me ... cotabas@gmail.com
 
 <!---
