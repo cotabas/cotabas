@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cotabas
+- 👋 Hi, I’m @cotabas, or cptmo, or Morgan
 - 👀 I’m interested in ... solving problems, climbing, trail running, camping, **food**, mtg, nba
 - 🌱 I’m currently learning ... rails and js
 - 💞️ I’m looking to collaborate on ... anything that helps disadvantaged people, the planet, or animals 🐈‍⬛
