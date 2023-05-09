@@ -18,4 +18,4 @@ cotabas/cotabas is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cotabas&langs_count=8&layout=compact&theme=gruvbox&bg_color=00000000&hide_border=true&hide_title=true&cache_seconds=86400&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-sable.vercel.app/api/top-langs/?username=cotabas&langs_count=8&layout=compact&theme=gruvbox&bg_color=00000000&hide_border=true&hide_title=true&cache_seconds=86400&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
